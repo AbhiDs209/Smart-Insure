@@ -1,0 +1,501 @@
+product_id,product_name,insurer,premium_yearly,sum_insured,min_age,max_age,covers_maternity,covers_preexisting,network_hospitals,regions,waiting_period_months,co_pay_percent,policy_type
+P0001,ProGuard Elite Plan 299,ProGuard,3000,90000,25,65,no,no,City Hospital Y|Metro Hospital 4,Ahmedabad|Noida,24,25,individual
+P0002,YouthHealth Family Plan 277,YouthHealth,13576,1086080,22,65,yes,yes,Metro Hospital 10|City Hospital O|City Hospital I,Chennai|Kolkata,24,5,family
+P0003,DiabeCare Plus Plan 451,DiabeCare,13062,1306200,22,80,yes,no,Metro Hospital 4|City Hospital J,Noida|Jaipur|Bengaluru,18,30,individual
+P0004,Mom&Me Family Plan 10,Mom&Me,24782,619550,22,65,no,yes,Metro Hospital 9|City Hospital Q|Metro Hospital 12,Patna,36,5,family
+P0005,EliteCare Starter Plan 281,EliteCare,17143,342860,22,55,yes,no,City Hospital T|Metro Hospital 4|City Hospital U|Metro Hospital 11,Chandigarh|Lucknow,12,20,individual
+P0006,Mom&Me Starter Plan 187,Mom&Me,11564,1156400,25,80,yes,no,City Hospital U,Delhi|Bengaluru|Patna,6,25,individual
+P0007,NovaCare Basic Plan 209,NovaCare,3000,60000,30,80,no,no,City Hospital J|City Hospital N|City Hospital Z,Chennai|Jaipur,6,15,family
+P0008,RegionalInsure Basic Plan 329,RegionalInsure,5223,104460,25,80,yes,no,Metro Hospital 12,Noida,24,15,family
+P0009,SureCare Value Plan 459,SureCare,16869,843450,30,55,no,yes,Metro Hospital 11|Metro Hospital 9|City Hospital C,Jaipur|Ahmedabad,12,5,individual
+P0010,NovaCare Value Plan 235,NovaCare,14504,1160320,30,55,no,no,Metro Hospital 3|Metro Hospital 7,Kolkata|Ahmedabad,12,30,individual
+P0011,Mom&Me Saver Plan 247,Mom&Me,10793,269825,25,55,no,no,City Hospital A|City Hospital U|City Hospital S|City Hospital G,Gurgaon|Jaipur,12,20,individual
+P0012,LocalFamily Saver Plan 175,LocalFamily,11300,226000,21,80,no,no,City Hospital A|Metro Hospital 1|City Hospital Y,Chennai,18,5,family
+P0013,InsureCo Value Plan 281,InsureCo,3000,90000,18,70,no,no,City Hospital M|City Hospital O|Metro Hospital 3,Mumbai|Chandigarh,24,10,individual
+P0014,CorpHealth Elite Plan 234,CorpHealth,14462,1446200,30,60,yes,yes,Metro Hospital 9|City Hospital J,Noida,24,15,family
+P0015,UnityHealth Value Plan 188,UnityHealth,19742,394840,25,60,no,yes,City Hospital C|Metro Hospital 4,Mumbai|Patna,12,30,family
+P0016,LocalHealth Family Plan 255,LocalHealth,12816,320400,21,55,yes,no,City Hospital K|City Hospital H,Gurgaon,12,10,individual
+P0017,UnityHealth Basic Plan 203,UnityHealth,20225,404500,25,55,yes,yes,City Hospital K,Pune|Jaipur|Hyderabad,24,25,family
+P0018,EliteCare Saver Plan 179,EliteCare,16192,647680,25,60,yes,no,Metro Hospital 13|City Hospital U|City Hospital O|Metro Hospital 5,Hyderabad,6,20,individual
+P0019,SafeHealth Family Plan 23,SafeHealth,15919,636760,22,60,yes,no,City Hospital Z|City Hospital F|Metro Hospital 13,Chennai|Kolkata,24,25,family
+P0020,MedSecure Starter Plan 423,MedSecure,6278,313900,22,60,no,yes,City Hospital S|Metro Hospital 5|Metro Hospital 11|Metro Hospital 12,Chennai,18,5,individual
+P0021,Mom&Me Max Plan 437,Mom&Me,13940,348500,25,60,yes,yes,Metro Hospital 5,Chennai,6,5,individual
+P0022,GuardianLife Premium Plan 316,GuardianLife,18681,747240,25,70,no,no,Metro Hospital 10|City Hospital F,Hyderabad|Gurgaon,12,5,family
+P0023,UnityHealth Elite Plan 11,UnityHealth,22633,678990,21,80,no,yes,City Hospital S,Kolkata,18,10,family
+P0024,CorpHealth Protect Plan 230,CorpHealth,19690,393800,18,60,no,no,City Hospital X|City Hospital E|City Hospital P,Bengaluru|Pune|Lucknow,18,5,family
+P0025,GoldenAge Premium Plan 374,GoldenAge,15310,382750,30,80,no,no,City Hospital I|Metro Hospital 11|City Hospital R|City Hospital D,Ahmedabad|Noida|Pune,6,30,individual
+P0026,EliteCare Premium Plan 470,EliteCare,23166,579150,30,55,yes,no,Metro Hospital 11|Metro Hospital 2|City Hospital V|City Hospital M,Indore|Patna,36,25,individual
+P0027,LocalHealth Saver Plan 326,LocalHealth,14652,1172160,21,60,no,no,City Hospital S|City Hospital F|City Hospital Q,Hyderabad|Chennai|Lucknow,12,5,individual
+P0028,CorpHealth Family Plan 339,CorpHealth,7314,585120,22,80,yes,yes,City Hospital W|City Hospital R|City Hospital M|City Hospital I,Noida,36,25,individual
+P0029,SafeHealth Premium Plan 274,SafeHealth,8905,890500,18,55,no,no,City Hospital R|City Hospital U|Metro Hospital 9,Hyderabad|Pune|Bengaluru,36,20,individual
+P0030,DiabeCare Elite Plan 18,DiabeCare,9621,481050,21,60,no,yes,City Hospital T|City Hospital F,Patna|Lucknow,36,25,family
+P0031,ApexInsure Basic Plan 433,ApexInsure,15373,1537300,30,60,yes,yes,City Hospital O|City Hospital S|City Hospital B|Metro Hospital 11,Gurgaon|Lucknow|Chandigarh,18,10,family
+P0032,TrustHealth Basic Plan 425,TrustHealth,14696,293920,25,65,no,no,Metro Hospital 10|City Hospital Z|City Hospital J,Jaipur,6,5,individual
+P0033,ProGuard Starter Plan 325,ProGuard,18177,1454160,21,65,no,yes,Metro Hospital 1|City Hospital F|City Hospital Y,Bengaluru,6,20,individual
+P0034,WellLife Elite Plan 152,WellLife,22186,2218600,30,80,no,yes,City Hospital Y,Pune|Hyderabad|Delhi,36,20,individual
+P0035,CorpHealth Max Plan 276,CorpHealth,18155,1089300,25,55,no,yes,City Hospital J,Bengaluru,6,15,family
+P0036,InsureCo Basic Plan 197,InsureCo,4133,206650,22,55,no,yes,Metro Hospital 5|City Hospital O|City Hospital C,Noida|Kolkata|Indore,6,10,individual
+P0037,EliteFamily Value Plan 7,EliteFamily,3000,150000,30,70,no,yes,City Hospital I|Metro Hospital 11,Bengaluru,6,10,family
+P0038,SafeHealth Max Plan 242,SafeHealth,4587,366960,21,60,no,no,City Hospital I|City Hospital K|City Hospital X|City Hospital V,Pune,6,10,family
+P0039,TrustHealth Basic Plan 341,TrustHealth,3000,240000,21,60,no,yes,City Hospital M|City Hospital O|City Hospital P|City Hospital U,Ahmedabad|Kolkata,6,10,individual
+P0040,LocalFamily Protect Plan 425,LocalFamily,14395,719750,25,80,no,no,City Hospital A|Metro Hospital 13,Ahmedabad|Chandigarh|Pune,36,5,individual
+P0041,LocalFamily Starter Plan 239,LocalFamily,11442,457680,30,80,no,no,Metro Hospital 5|City Hospital H,Chandigarh|Lucknow|Mumbai,36,20,individual
+P0042,EasyHealth Protect Plan 498,EasyHealth,12834,770040,21,80,yes,no,City Hospital B|City Hospital M,Chennai|Kolkata|Mumbai,18,5,family
+P0043,BudgetHealth Saver Plan 475,BudgetHealth,19996,799840,22,55,no,yes,City Hospital W,Mumbai|Chennai|Ahmedabad,36,15,family
+P0044,SafeWorker Elite Plan 114,SafeWorker,9107,227675,30,60,no,no,City Hospital E|City Hospital D|City Hospital F,Bengaluru|Patna|Pune,24,20,individual
+P0045,MedSecure Max Plan 128,MedSecure,3000,120000,21,55,no,yes,City Hospital Z|City Hospital T|Metro Hospital 4,Kolkata|Chennai,12,20,individual
+P0046,BudgetHealth Elite Plan 88,BudgetHealth,23235,1394100,21,55,yes,no,City Hospital D,Gurgaon|Chandigarh,18,15,family
+P0047,LocalHealth Plus Plan 97,LocalHealth,10818,540900,25,60,no,yes,City Hospital Z|City Hospital B|Metro Hospital 1|City Hospital F,Lucknow,36,20,family
+P0048,GoldenAge Starter Plan 122,GoldenAge,8987,179740,22,55,yes,yes,City Hospital T|City Hospital E|Metro Hospital 4|City Hospital B,Gurgaon,24,20,family
+P0049,EliteFamily Protect Plan 451,EliteFamily,24168,725040,21,60,yes,yes,City Hospital O|City Hospital S,Hyderabad|Indore,6,30,family
+P0050,SafeHealth Saver Plan 499,SafeHealth,3000,150000,25,65,no,yes,City Hospital C|City Hospital B,Hyderabad,36,5,individual
+P0051,GuardianLife Plus Plan 49,GuardianLife,19595,587850,22,70,yes,no,City Hospital T,Noida|Chennai,36,5,family
+P0052,GuardianLife Max Plan 132,GuardianLife,16893,337860,18,70,no,yes,City Hospital G|City Hospital N|City Hospital Z,Jaipur|Pune|Bengaluru,6,30,family
+P0053,ProGuard Starter Plan 460,ProGuard,3335,83375,18,65,yes,yes,City Hospital X|City Hospital L|Metro Hospital 1|City Hospital Q,Hyderabad|Jaipur|Indore,6,10,individual
+P0054,ApexInsure Value Plan 481,ApexInsure,9089,181780,25,70,no,yes,City Hospital P,Jaipur|Delhi,36,20,family
+P0055,WellLife Premium Plan 324,WellLife,23837,1430220,22,55,yes,no,City Hospital I,Pune,36,15,family
+P0056,SafeHealth Max Plan 182,SafeHealth,19679,983950,25,60,no,yes,City Hospital I,Hyderabad|Indore|Delhi,6,30,individual
+P0057,GoldenAge Family Plan 360,GoldenAge,3000,90000,21,55,no,no,Metro Hospital 2|Metro Hospital 1|City Hospital R|City Hospital Z,Patna|Hyderabad|Mumbai,24,25,individual
+P0058,SafeWorker Family Plan 353,SafeWorker,21938,548450,18,55,no,no,Metro Hospital 2|Metro Hospital 1|City Hospital R,Noida,36,5,individual
+P0059,MedSecure Saver Plan 494,MedSecure,18018,450450,22,60,no,yes,City Hospital H|City Hospital S|City Hospital I,Jaipur|Chennai|Gurgaon,18,30,individual
+P0060,SafeWorker Family Plan 360,SafeWorker,31462,2516960,18,65,yes,no,City Hospital L|Metro Hospital 2,Delhi|Bengaluru,6,20,family
+P0061,FamilyFirst Plus Plan 393,FamilyFirst,20520,2052000,30,65,no,no,City Hospital U,Lucknow|Jaipur|Gurgaon,12,25,individual
+P0062,EliteCare Plus Plan 126,EliteCare,18713,1871300,30,80,no,yes,Metro Hospital 14|City Hospital G|City Hospital I,Hyderabad,36,10,family
+P0063,NovaCare Basic Plan 77,NovaCare,14115,352875,21,80,no,yes,City Hospital U,Pune|Jaipur,12,25,individual
+P0064,WellLife Family Plan 486,WellLife,8273,248190,21,80,no,no,Metro Hospital 8,Patna|Jaipur|Ahmedabad,24,10,individual
+P0065,BudgetHealth Max Plan 485,BudgetHealth,5602,448160,21,70,yes,yes,City Hospital U,Noida|Delhi,6,5,individual
+P0066,HappyLife Saver Plan 390,HappyLife,10875,435000,18,70,no,yes,City Hospital B|City Hospital F|City Hospital T|City Hospital J,Patna|Jaipur|Bengaluru,18,30,individual
+P0067,ProGuard Elite Plan 134,ProGuard,3719,371900,22,55,yes,no,Metro Hospital 10|Metro Hospital 3|City Hospital E,Mumbai,18,15,family
+P0068,UnityHealth Family Plan 82,UnityHealth,10566,633960,30,70,no,no,Metro Hospital 14|City Hospital F|City Hospital R,Gurgaon|Hyderabad|Indore,6,5,family
+P0069,EliteFamily Starter Plan 450,EliteFamily,21260,425200,25,60,no,yes,City Hospital Y|City Hospital T|City Hospital X|City Hospital Q,Pune|Bengaluru|Lucknow,18,10,individual
+P0070,MetroHealth Starter Plan 271,MetroHealth,15504,775200,18,55,no,yes,City Hospital Z|Metro Hospital 6|Metro Hospital 11,Patna|Chennai|Noida,6,5,individual
+P0071,MedSecure Protect Plan 35,MedSecure,17269,1726900,30,60,no,no,City Hospital Z,Noida,18,20,individual
+P0072,YouthHealth Max Plan 287,YouthHealth,4574,365920,18,70,yes,no,City Hospital H|Metro Hospital 14|City Hospital G,Chennai|Lucknow|Pune,6,5,family
+P0073,WellLife Starter Plan 424,WellLife,8140,162800,21,80,no,yes,Metro Hospital 11,Patna|Chandigarh|Noida,12,30,family
+P0074,InsureCo Family Plan 204,InsureCo,13833,414990,25,60,yes,yes,Metro Hospital 3,Lucknow|Kolkata|Hyderabad,6,15,family
+P0075,LocalHealth Saver Plan 132,LocalHealth,10570,317100,21,55,yes,yes,Metro Hospital 4|City Hospital O,Noida,36,5,family
+P0076,TrustHealth Premium Plan 382,TrustHealth,13763,688150,22,80,yes,no,Metro Hospital 2|City Hospital B|City Hospital N|Metro Hospital 13,Ahmedabad|Mumbai,36,10,individual
+P0077,SureCare Elite Plan 358,SureCare,10558,211160,22,80,yes,no,Metro Hospital 8,Chandigarh|Bengaluru,36,20,family
+P0078,RegionalInsure Value Plan 201,RegionalInsure,3000,150000,18,65,yes,yes,City Hospital L,Chandigarh|Kolkata,24,15,individual
+P0079,BudgetHealth Value Plan 356,BudgetHealth,13922,696100,18,70,yes,yes,City Hospital F,Mumbai|Lucknow,24,20,family
+P0080,MedSecure Basic Plan 276,MedSecure,3000,90000,30,80,no,no,Metro Hospital 10|City Hospital C|Metro Hospital 1,Pune,18,25,individual
+P0081,CorpHealth Value Plan 339,CorpHealth,13484,539360,22,60,no,yes,City Hospital H|City Hospital O,Indore|Kolkata,36,30,family
+P0082,TotalHealth Value Plan 421,TotalHealth,4824,120600,21,65,no,yes,City Hospital W|City Hospital H|City Hospital O,Lucknow|Noida|Chennai,24,20,family
+P0083,DiabeCare Elite Plan 127,DiabeCare,20354,1017700,18,65,no,no,City Hospital Z|Metro Hospital 11|City Hospital B|Metro Hospital 14,Chandigarh|Pune,24,25,individual
+P0084,RegionalInsure Elite Plan 93,RegionalInsure,8951,716080,30,60,no,no,Metro Hospital 6|City Hospital Y|Metro Hospital 8,Chandigarh|Lucknow,24,30,family
+P0085,InsureCo Elite Plan 110,InsureCo,27125,1356250,22,60,no,yes,Metro Hospital 8|City Hospital U,Gurgaon,12,30,family
+P0086,MedSecure Value Plan 177,MedSecure,27010,675250,18,60,yes,no,City Hospital G|City Hospital C|City Hospital O,Lucknow|Mumbai,24,15,family
+P0087,InsureCo Saver Plan 44,InsureCo,18409,552270,22,80,no,yes,City Hospital F|Metro Hospital 13,Indore,6,30,family
+P0088,StarterCare Elite Plan 394,StarterCare,14177,1134160,21,55,yes,yes,Metro Hospital 4|City Hospital X|City Hospital B,Chandigarh|Noida|Mumbai,12,5,family
+P0089,MetroHealth Elite Plan 88,MetroHealth,11146,1114600,21,80,yes,no,City Hospital F|City Hospital L,Hyderabad,18,5,individual
+P0090,ProGuard Plus Plan 118,ProGuard,8398,839800,21,80,yes,no,City Hospital K|Metro Hospital 3|City Hospital W,Gurgaon|Bengaluru,18,5,individual
+P0091,LocalFamily Plus Plan 135,LocalFamily,15807,1580700,30,65,yes,no,City Hospital E|Metro Hospital 5|City Hospital Z,Indore|Hyderabad|Mumbai,24,10,individual
+P0092,BudgetHealth Value Plan 390,BudgetHealth,19712,985600,25,70,no,yes,City Hospital J|City Hospital W,Mumbai|Chennai,6,30,family
+P0093,MedSecure Plus Plan 492,MedSecure,16548,1654800,30,65,yes,no,Metro Hospital 3|Metro Hospital 4,Delhi|Pune,18,5,family
+P0094,EliteFamily Family Plan 302,EliteFamily,17846,713840,18,65,yes,no,Metro Hospital 12|Metro Hospital 13,Pune|Chennai,18,5,individual
+P0095,TrustHealth Saver Plan 68,TrustHealth,15552,466560,30,60,no,no,City Hospital Z|City Hospital L|Metro Hospital 8|City Hospital X,Chandigarh|Chennai|Mumbai,18,25,family
+P0096,RegionalInsure Premium Plan 220,RegionalInsure,11681,934480,30,65,no,no,Metro Hospital 6|City Hospital R|Metro Hospital 2,Chennai|Gurgaon,24,20,individual
+P0097,DiabeCare Family Plan 462,DiabeCare,24963,2496300,22,65,yes,no,Metro Hospital 13|City Hospital C|City Hospital M|City Hospital E,Chennai|Indore|Lucknow,36,5,family
+P0098,TrustHealth Elite Plan 114,TrustHealth,16071,1607100,18,80,no,yes,City Hospital I|City Hospital M|City Hospital Y|Metro Hospital 10,Bengaluru,18,25,family
+P0099,GoldenAge Plus Plan 42,GoldenAge,7615,190375,21,70,yes,no,City Hospital K|City Hospital Q,Jaipur,24,30,family
+P0100,YouthHealth Max Plan 277,YouthHealth,23151,2315100,30,65,yes,yes,City Hospital D|Metro Hospital 7|Metro Hospital 13,Mumbai|Bengaluru|Kolkata,36,5,individual
+P0101,MaxCover Value Plan 393,MaxCover,7002,175050,30,65,yes,yes,City Hospital Z|City Hospital D|City Hospital K|City Hospital S,Patna|Hyderabad,6,25,family
+P0102,EasyHealth Starter Plan 336,EasyHealth,15743,393575,30,70,no,no,City Hospital F|City Hospital J|City Hospital Z,Gurgaon|Bengaluru,24,5,family
+P0103,EliteCare Premium Plan 433,EliteCare,23584,2358400,22,60,yes,no,Metro Hospital 3|Metro Hospital 5|Metro Hospital 9,Jaipur,24,30,individual
+P0104,SureCare Protect Plan 47,SureCare,5230,261500,25,55,no,no,City Hospital W|City Hospital K,Patna|Chandigarh,12,5,family
+P0105,TotalHealth Value Plan 96,TotalHealth,14336,860160,30,60,yes,no,Metro Hospital 5|Metro Hospital 2|Metro Hospital 6,Bengaluru|Indore,18,25,individual
+P0106,WellLife Basic Plan 255,WellLife,5131,128275,22,60,no,no,City Hospital X,Bengaluru,18,30,individual
+P0107,LocalHealth Starter Plan 364,LocalHealth,18021,901050,30,60,yes,no,City Hospital A|Metro Hospital 7|Metro Hospital 8|Metro Hospital 13,Mumbai,12,30,family
+P0108,MetroHealth Protect Plan 113,MetroHealth,14502,435060,25,55,no,no,City Hospital U|City Hospital T,Bengaluru|Delhi,18,25,family
+P0109,MedSecure Protect Plan 326,MedSecure,3000,150000,30,60,yes,yes,City Hospital Q|City Hospital O,Chandigarh,12,10,family
+P0110,NovaCare Premium Plan 64,NovaCare,3000,90000,22,60,yes,no,Metro Hospital 7,Chennai,18,25,individual
+P0111,NovaCare Premium Plan 402,NovaCare,17317,1385360,21,80,yes,yes,Metro Hospital 1|Metro Hospital 3|Metro Hospital 14|Metro Hospital 8,Chandigarh|Ahmedabad,12,10,family
+P0112,EliteCare Value Plan 358,EliteCare,11399,227980,25,60,yes,yes,City Hospital U|City Hospital D,Hyderabad|Noida,18,10,individual
+P0113,LocalHealth Protect Plan 370,LocalHealth,17106,427650,30,80,no,yes,City Hospital U,Chennai|Mumbai|Hyderabad,12,20,family
+P0114,EliteFamily Starter Plan 409,EliteFamily,11010,1101000,18,55,yes,yes,City Hospital Y|City Hospital B,Noida|Ahmedabad,12,20,family
+P0115,MaxCover Basic Plan 456,MaxCover,18458,369160,25,70,no,yes,City Hospital E|City Hospital B|Metro Hospital 6|Metro Hospital 1,Lucknow|Delhi|Gurgaon,24,25,individual
+P0116,MetroHealth Premium Plan 135,MetroHealth,10784,323520,22,60,no,no,City Hospital P|City Hospital O|City Hospital M|Metro Hospital 5,Delhi|Indore,18,20,family
+P0117,TotalHealth Basic Plan 30,TotalHealth,5137,308220,22,55,no,no,City Hospital Y|City Hospital T,Chennai|Patna,6,20,individual
+P0118,SureCare Value Plan 360,SureCare,3000,90000,25,65,yes,yes,City Hospital Q|City Hospital N|City Hospital T,Kolkata|Noida,12,25,family
+P0119,LocalHealth Starter Plan 20,LocalHealth,13282,332050,30,55,no,no,City Hospital N,Chennai,24,5,family
+P0120,YouthHealth Value Plan 453,YouthHealth,6631,265240,30,70,no,yes,Metro Hospital 3|City Hospital P|City Hospital F|City Hospital R,Noida|Bengaluru|Kolkata,6,25,family
+P0121,InsureCo Family Plan 350,InsureCo,3000,240000,18,65,no,yes,City Hospital G|Metro Hospital 7|City Hospital A|City Hospital C,Chennai|Gurgaon,24,20,individual
+P0122,Mom&Me Value Plan 90,Mom&Me,7519,150380,21,60,no,no,City Hospital X|City Hospital H|City Hospital Z,Lucknow|Kolkata|Indore,18,10,individual
+P0123,MedSecure Premium Plan 383,MedSecure,3000,90000,18,80,yes,no,City Hospital E|City Hospital V,Bengaluru|Lucknow,36,30,individual
+P0124,SafeHealth Protect Plan 302,SafeHealth,21334,1280040,25,80,no,no,City Hospital R|Metro Hospital 1|Metro Hospital 9,Bengaluru|Delhi|Lucknow,24,15,family
+P0125,EliteCare Elite Plan 420,EliteCare,16464,658560,25,60,yes,no,Metro Hospital 8,Chennai,24,15,family
+P0126,SureCare Saver Plan 88,SureCare,3000,75000,18,80,no,no,City Hospital K,Lucknow|Chennai|Mumbai,36,30,family
+P0127,LocalHealth Protect Plan 290,LocalHealth,16692,1335360,30,65,yes,no,Metro Hospital 3|Metro Hospital 6|City Hospital N|City Hospital L,Delhi|Pune|Noida,12,25,individual
+P0128,ApexInsure Value Plan 84,ApexInsure,19683,1968300,22,65,yes,yes,Metro Hospital 2|City Hospital X|Metro Hospital 10|City Hospital J,Mumbai,36,15,family
+P0129,EasyHealth Basic Plan 351,EasyHealth,10525,421000,21,65,no,yes,City Hospital A|City Hospital F|Metro Hospital 8|City Hospital X,Hyderabad,18,15,individual
+P0130,StarterCare Premium Plan 71,StarterCare,19819,1981900,18,80,no,yes,Metro Hospital 12|Metro Hospital 1|Metro Hospital 8,Patna|Bengaluru|Gurgaon,18,25,family
+P0131,GoldenAge Protect Plan 27,GoldenAge,3000,240000,25,55,no,no,City Hospital Z|City Hospital N,Noida|Mumbai|Patna,36,25,family
+P0132,YouthHealth Protect Plan 96,YouthHealth,7157,357850,25,55,no,yes,City Hospital S,Gurgaon|Chandigarh|Kolkata,6,20,family
+P0133,GoldenAge Starter Plan 21,GoldenAge,10001,600060,30,55,no,no,City Hospital U|City Hospital Z,Noida,36,30,family
+P0134,GuardianLife Elite Plan 170,GuardianLife,3000,120000,30,65,yes,yes,City Hospital G,Lucknow,18,30,family
+P0135,MetroHealth Saver Plan 154,MetroHealth,20627,515675,18,55,no,yes,City Hospital X|City Hospital M|City Hospital U,Hyderabad,18,5,individual
+P0136,HappyLife Basic Plan 346,HappyLife,5213,156390,22,70,no,yes,City Hospital E,Delhi|Mumbai|Patna,18,20,family
+P0137,TotalHealth Basic Plan 28,TotalHealth,5361,134025,21,55,no,yes,Metro Hospital 1|Metro Hospital 3|City Hospital V,Ahmedabad,6,15,individual
+P0138,MedSecure Protect Plan 18,MedSecure,7783,155660,22,55,no,no,City Hospital S,Jaipur,36,30,individual
+P0139,InsureCo Saver Plan 42,InsureCo,14487,869220,22,70,yes,no,City Hospital E|Metro Hospital 1|Metro Hospital 11|City Hospital Q,Ahmedabad,36,30,individual
+P0140,UnityHealth Starter Plan 328,UnityHealth,12589,1007120,18,65,no,yes,City Hospital O|City Hospital Z|Metro Hospital 9,Delhi|Lucknow,24,30,individual
+P0141,Mom&Me Value Plan 177,Mom&Me,3780,94500,25,65,yes,yes,City Hospital N|City Hospital A|City Hospital V|City Hospital P,Patna|Lucknow|Bengaluru,6,30,family
+P0142,SafeHealth Family Plan 127,SafeHealth,10034,401360,18,70,no,no,Metro Hospital 2|Metro Hospital 5,Bengaluru|Ahmedabad,24,30,individual
+P0143,GoldenAge Premium Plan 156,GoldenAge,3931,235860,18,60,no,yes,City Hospital M|City Hospital Y|City Hospital R|City Hospital K,Gurgaon,12,10,individual
+P0144,DiabeCare Max Plan 481,DiabeCare,8595,687600,21,60,no,no,City Hospital K|City Hospital N|Metro Hospital 5|City Hospital I,Jaipur|Lucknow,6,25,family
+P0145,BudgetHealth Basic Plan 225,BudgetHealth,5105,408400,18,60,yes,no,City Hospital J,Patna|Chandigarh|Mumbai,24,25,family
+P0146,MedSecure Basic Plan 7,MedSecure,3000,90000,30,80,no,no,City Hospital S|Metro Hospital 3|Metro Hospital 14|City Hospital P,Delhi|Indore,36,25,individual
+P0147,Mom&Me Elite Plan 80,Mom&Me,12203,244060,22,65,yes,no,City Hospital F|City Hospital H|City Hospital O,Chandigarh,36,10,individual
+P0148,WellLife Saver Plan 292,WellLife,21320,533000,22,80,yes,no,Metro Hospital 7|City Hospital V|Metro Hospital 5,Gurgaon|Ahmedabad|Bengaluru,24,30,family
+P0149,PrimeShield Value Plan 73,PrimeShield,16088,1287040,18,65,no,no,City Hospital R|City Hospital Z|Metro Hospital 6,Chandigarh|Kolkata|Patna,12,15,family
+P0150,CorpHealth Elite Plan 416,CorpHealth,16078,1607800,21,80,no,no,Metro Hospital 11|Metro Hospital 9|Metro Hospital 2,Patna,12,30,individual
+P0151,EasyHealth Starter Plan 328,EasyHealth,9431,235775,21,70,no,yes,City Hospital F|City Hospital O,Hyderabad|Bengaluru,36,30,individual
+P0152,GuardianLife Premium Plan 21,GuardianLife,14862,371550,25,60,no,no,City Hospital W,Mumbai|Indore,6,30,family
+P0153,GoldenAge Protect Plan 342,GoldenAge,3145,78625,30,55,no,no,City Hospital A,Pune|Mumbai,6,30,individual
+P0154,StarterCare Premium Plan 260,StarterCare,3000,60000,25,80,no,no,City Hospital Z|Metro Hospital 14,Kolkata|Delhi,36,30,family
+P0155,MetroHealth Max Plan 445,MetroHealth,10498,314940,25,70,no,no,Metro Hospital 3|City Hospital O|Metro Hospital 2,Lucknow|Hyderabad|Gurgaon,12,30,family
+P0156,UnityHealth Elite Plan 279,UnityHealth,11184,671040,22,65,no,no,City Hospital Z|City Hospital Y|Metro Hospital 6,Jaipur|Lucknow,6,30,family
+P0157,UnityHealth Family Plan 84,UnityHealth,7764,621120,18,60,no,no,City Hospital W|Metro Hospital 13,Chennai|Mumbai|Patna,36,25,individual
+P0158,TrustHealth Premium Plan 263,TrustHealth,7455,447300,18,55,yes,no,City Hospital D|City Hospital C|Metro Hospital 10|City Hospital T,Noida,6,10,family
+P0159,ProGuard Elite Plan 479,ProGuard,21237,2123700,30,65,no,no,City Hospital W|City Hospital Q|City Hospital Z|City Hospital O,Gurgaon|Noida,12,25,family
+P0160,ProGuard Plus Plan 244,ProGuard,10671,266775,30,80,no,yes,Metro Hospital 11|Metro Hospital 2|Metro Hospital 10,Hyderabad|Gurgaon,36,10,individual
+P0161,DiabeCare Saver Plan 422,DiabeCare,5249,131225,30,55,no,no,Metro Hospital 8|Metro Hospital 10,Bengaluru|Pune,24,10,individual
+P0162,HappyLife Starter Plan 290,HappyLife,4629,277740,25,60,no,yes,Metro Hospital 9|Metro Hospital 14|City Hospital T|Metro Hospital 13,Mumbai|Chandigarh|Patna,18,25,family
+P0163,CorpHealth Value Plan 49,CorpHealth,12601,252020,22,80,no,yes,City Hospital Y|City Hospital H|Metro Hospital 11|City Hospital F,Bengaluru|Indore|Pune,6,5,individual
+P0164,HealthPlus Max Plan 220,HealthPlus,13755,343875,25,80,no,no,City Hospital I|City Hospital B|Metro Hospital 8|City Hospital F,Delhi,6,10,family
+P0165,LocalHealth Saver Plan 164,LocalHealth,3000,90000,30,60,no,no,City Hospital M,Chennai|Delhi|Kolkata,36,5,family
+P0166,NovaCare Saver Plan 313,NovaCare,5070,126750,25,70,no,no,Metro Hospital 14,Jaipur|Mumbai|Pune,6,5,individual
+P0167,WellLife Elite Plan 88,WellLife,21607,1296420,25,80,no,yes,Metro Hospital 6,Chennai|Bengaluru|Chandigarh,6,25,individual
+P0168,TrustHealth Saver Plan 433,TrustHealth,3774,377400,30,80,no,yes,Metro Hospital 9|Metro Hospital 8|City Hospital M,Noida|Jaipur,24,15,family
+P0169,CorpHealth Protect Plan 220,CorpHealth,15226,1218080,18,65,no,yes,Metro Hospital 6|Metro Hospital 10,Pune|Gurgaon|Patna,24,30,family
+P0170,HealthPlus Elite Plan 116,HealthPlus,17563,702520,30,70,no,yes,Metro Hospital 11|City Hospital Y|City Hospital H,Indore,18,25,individual
+P0171,EliteCare Starter Plan 448,EliteCare,16085,1286800,25,60,yes,yes,City Hospital M|Metro Hospital 4|City Hospital H,Gurgaon|Hyderabad,24,5,family
+P0172,FamilyFirst Protect Plan 221,FamilyFirst,7734,386700,25,55,yes,no,Metro Hospital 7|Metro Hospital 14|Metro Hospital 2,Indore|Kolkata|Hyderabad,12,15,family
+P0173,GoldenAge Premium Plan 6,GoldenAge,24357,730710,18,65,no,yes,City Hospital T,Kolkata|Indore,18,5,family
+P0174,CorpHealth Plus Plan 154,CorpHealth,3000,90000,18,60,no,no,City Hospital G|City Hospital Y|Metro Hospital 8|City Hospital L,Gurgaon,12,25,family
+P0175,ApexInsure Value Plan 61,ApexInsure,14714,1177120,18,55,no,no,City Hospital U|City Hospital R|City Hospital G,Noida|Patna|Chennai,6,25,individual
+P0176,FamilyFirst Basic Plan 449,FamilyFirst,19148,382960,22,65,no,no,City Hospital O|Metro Hospital 3|City Hospital U|City Hospital M,Chandigarh|Indore,24,5,individual
+P0177,CorpHealth Elite Plan 168,CorpHealth,9379,562740,30,60,yes,yes,Metro Hospital 10|City Hospital T|City Hospital S,Delhi,36,5,individual
+P0178,LocalHealth Basic Plan 460,LocalHealth,3000,120000,22,80,no,yes,City Hospital Q|Metro Hospital 8|Metro Hospital 1,Jaipur|Delhi,12,15,family
+P0179,GuardianLife Elite Plan 450,GuardianLife,3000,90000,18,60,no,yes,Metro Hospital 12,Chennai|Chandigarh|Mumbai,24,15,family
+P0180,SafeWorker Saver Plan 33,SafeWorker,5143,411440,18,60,yes,no,City Hospital H|City Hospital R|Metro Hospital 5|City Hospital I,Kolkata|Lucknow|Jaipur,6,20,family
+P0181,InsureCo Starter Plan 345,InsureCo,20715,2071500,22,80,no,yes,Metro Hospital 10|Metro Hospital 1,Hyderabad|Indore,6,25,family
+P0182,HealthPlus Value Plan 5,HealthPlus,22216,888640,30,70,no,no,Metro Hospital 13,Bengaluru|Hyderabad,12,20,family
+P0183,HealthPlus Elite Plan 338,HealthPlus,10464,627840,22,60,no,no,Metro Hospital 5|Metro Hospital 6|City Hospital R|Metro Hospital 11,Bengaluru|Noida|Lucknow,36,15,family
+P0184,WellLife Basic Plan 412,WellLife,4586,366880,30,65,yes,no,City Hospital B|Metro Hospital 2,Bengaluru|Chennai|Patna,12,5,family
+P0185,SureCare Plus Plan 111,SureCare,8794,175880,21,80,yes,no,City Hospital Z|Metro Hospital 1,Pune|Jaipur|Delhi,36,15,family
+P0186,EliteFamily Saver Plan 320,EliteFamily,16321,489630,30,80,yes,no,City Hospital Y|City Hospital K,Hyderabad,36,30,family
+P0187,HappyLife Value Plan 199,HappyLife,11906,952480,25,65,no,no,City Hospital R,Patna|Kolkata|Ahmedabad,6,30,individual
+P0188,CorpHealth Protect Plan 368,CorpHealth,24601,615025,21,65,no,no,City Hospital A|City Hospital Z|City Hospital H,Patna|Kolkata,24,20,family
+P0189,PrimeShield Elite Plan 85,PrimeShield,20056,401120,18,60,no,yes,City Hospital Y|City Hospital J,Chandigarh|Gurgaon|Pune,24,25,individual
+P0190,EliteFamily Elite Plan 220,EliteFamily,3000,75000,22,55,no,yes,Metro Hospital 13|City Hospital N,Noida|Ahmedabad,18,10,family
+P0191,Mom&Me Family Plan 465,Mom&Me,14497,724850,25,70,yes,no,Metro Hospital 2,Hyderabad,6,5,individual
+P0192,MedSecure Max Plan 225,MedSecure,3850,77000,30,65,yes,no,City Hospital A|City Hospital C|City Hospital Q|City Hospital N,Pune|Patna,12,10,family
+P0193,EliteFamily Protect Plan 342,EliteFamily,15387,461610,18,65,no,no,City Hospital R,Mumbai|Bengaluru|Gurgaon,12,10,family
+P0194,SafeHealth Protect Plan 79,SafeHealth,6751,270040,25,70,yes,no,Metro Hospital 3|City Hospital Q|City Hospital E,Ahmedabad|Bengaluru|Indore,18,25,individual
+P0195,MaxCover Elite Plan 257,MaxCover,12122,1212200,22,55,yes,yes,City Hospital C,Jaipur|Pune|Patna,12,20,family
+P0196,LocalFamily Elite Plan 94,LocalFamily,15820,632800,30,80,no,no,City Hospital X,Ahmedabad|Delhi,6,10,individual
+P0197,Mom&Me Saver Plan 46,Mom&Me,16311,815550,21,60,yes,yes,City Hospital A,Pune,18,25,family
+P0198,SafeWorker Basic Plan 326,SafeWorker,12482,374460,18,65,no,yes,Metro Hospital 2|City Hospital A|Metro Hospital 14,Hyderabad,36,10,individual
+P0199,GoldenAge Value Plan 310,GoldenAge,3000,180000,21,65,yes,yes,City Hospital S|City Hospital E,Kolkata,18,5,individual
+P0200,TrustHealth Protect Plan 438,TrustHealth,15215,456450,22,60,no,yes,City Hospital A|City Hospital G,Lucknow|Bengaluru|Patna,18,5,individual
+P0201,StarterCare Premium Plan 459,StarterCare,12617,1009360,25,55,yes,no,Metro Hospital 4|City Hospital E,Pune,24,5,individual
+P0202,BudgetHealth Family Plan 254,BudgetHealth,3000,75000,25,55,no,yes,City Hospital V|City Hospital Z|City Hospital Q|City Hospital G,Noida|Kolkata|Gurgaon,36,25,individual
+P0203,MedSecure Protect Plan 211,MedSecure,19914,1194840,22,80,yes,yes,City Hospital J|Metro Hospital 5|City Hospital P,Chennai|Lucknow,36,20,family
+P0204,DiabeCare Starter Plan 320,DiabeCare,18104,362080,21,80,yes,yes,City Hospital Q|Metro Hospital 5|Metro Hospital 6,Jaipur,36,15,individual
+P0205,CorpHealth Premium Plan 285,CorpHealth,17071,682840,18,65,no,no,City Hospital P,Indore|Gurgaon,24,10,family
+P0206,HappyLife Saver Plan 123,HappyLife,18075,451875,22,65,no,no,Metro Hospital 6|City Hospital C|Metro Hospital 13|Metro Hospital 5,Pune|Bengaluru|Gurgaon,12,15,individual
+P0207,EliteFamily Max Plan 500,EliteFamily,9106,546360,18,70,no,no,Metro Hospital 10|City Hospital S,Jaipur|Patna,6,10,family
+P0208,EliteFamily Starter Plan 20,EliteFamily,24529,1226450,18,70,no,yes,City Hospital O|City Hospital I|Metro Hospital 10,Ahmedabad,12,5,individual
+P0209,SureCare Protect Plan 219,SureCare,9143,228575,30,55,no,yes,City Hospital U|Metro Hospital 14|City Hospital K,Gurgaon|Chennai|Hyderabad,18,15,family
+P0210,StarterCare Family Plan 21,StarterCare,12969,778140,22,60,yes,no,City Hospital H|Metro Hospital 14,Chennai|Delhi,18,20,family
+P0211,UnityHealth Value Plan 480,UnityHealth,19708,985400,21,55,yes,no,Metro Hospital 4|Metro Hospital 1|City Hospital J|Metro Hospital 9,Lucknow,12,5,family
+P0212,FamilyFirst Premium Plan 272,FamilyFirst,3000,120000,22,60,no,no,Metro Hospital 7,Patna|Hyderabad|Pune,24,30,family
+P0213,CorpHealth Saver Plan 1,CorpHealth,19335,483375,25,60,yes,yes,City Hospital E|Metro Hospital 8|City Hospital F,Chennai|Kolkata,6,30,family
+P0214,EliteCare Starter Plan 347,EliteCare,15545,777250,21,55,yes,no,Metro Hospital 7|Metro Hospital 13,Mumbai|Ahmedabad|Gurgaon,6,15,family
+P0215,ApexInsure Basic Plan 232,ApexInsure,7837,783700,30,70,no,yes,Metro Hospital 12,Lucknow|Hyderabad|Pune,24,10,family
+P0216,YouthHealth Premium Plan 136,YouthHealth,8339,416950,22,70,no,no,City Hospital D,Chandigarh,36,25,individual
+P0217,PrimeShield Value Plan 345,PrimeShield,10022,801760,25,60,no,no,City Hospital O,Bengaluru|Indore,36,30,individual
+P0218,SureCare Starter Plan 266,SureCare,7392,221760,18,55,no,no,City Hospital O|Metro Hospital 5|Metro Hospital 8,Jaipur|Pune,12,25,individual
+P0219,DiabeCare Premium Plan 130,DiabeCare,3000,240000,25,70,no,no,City Hospital I|City Hospital L,Lucknow|Delhi|Chennai,18,30,family
+P0220,ApexInsure Value Plan 61,ApexInsure,16211,1621100,21,65,yes,no,City Hospital H,Chennai,18,10,individual
+P0221,PrimeShield Plus Plan 497,PrimeShield,7034,351700,30,65,no,yes,Metro Hospital 4,Mumbai|Noida|Lucknow,36,10,individual
+P0222,SafeHealth Max Plan 329,SafeHealth,17555,438875,21,80,no,no,City Hospital H,Patna|Hyderabad,24,10,individual
+P0223,HealthPlus Protect Plan 405,HealthPlus,8624,215600,25,65,yes,yes,City Hospital Z|City Hospital C,Noida|Ahmedabad|Kolkata,6,25,individual
+P0224,HealthPlus Value Plan 315,HealthPlus,13310,266200,22,60,no,no,City Hospital A|City Hospital L,Bengaluru|Patna,36,20,individual
+P0225,LocalHealth Starter Plan 89,LocalHealth,19233,1538640,30,55,no,yes,City Hospital E,Chennai,36,20,individual
+P0226,DiabeCare Plus Plan 187,DiabeCare,18965,758600,22,55,no,no,Metro Hospital 2|Metro Hospital 14|Metro Hospital 9,Jaipur|Chandigarh,6,15,individual
+P0227,HealthPlus Family Plan 278,HealthPlus,6895,344750,21,60,no,no,City Hospital B,Delhi|Chandigarh,12,5,family
+P0228,InsureCo Family Plan 64,InsureCo,17927,448175,22,80,yes,no,City Hospital T|City Hospital E,Ahmedabad|Indore|Pune,36,15,individual
+P0229,FamilyFirst Basic Plan 294,FamilyFirst,14168,283360,18,80,yes,yes,City Hospital O|City Hospital G|City Hospital E,Indore|Mumbai|Hyderabad,6,25,individual
+P0230,SafeWorker Premium Plan 173,SafeWorker,8264,661120,22,55,yes,no,Metro Hospital 1|Metro Hospital 3|Metro Hospital 8,Delhi,6,25,family
+P0231,NovaCare Starter Plan 326,NovaCare,13633,545320,30,70,no,yes,City Hospital W,Mumbai|Lucknow|Delhi,24,30,family
+P0232,DiabeCare Elite Plan 463,DiabeCare,3000,240000,30,55,no,no,City Hospital I,Patna|Chandigarh,36,20,family
+P0233,LocalFamily Protect Plan 167,LocalFamily,16708,1670800,21,70,yes,no,City Hospital L|Metro Hospital 12,Chennai|Pune|Chandigarh,24,25,family
+P0234,BudgetHealth Protect Plan 118,BudgetHealth,8097,242910,30,70,no,no,Metro Hospital 11|Metro Hospital 13|City Hospital P,Kolkata,18,10,individual
+P0235,YouthHealth Family Plan 143,YouthHealth,5398,269900,30,65,yes,yes,Metro Hospital 12,Mumbai|Noida|Pune,24,30,family
+P0236,ApexInsure Max Plan 45,ApexInsure,4799,239950,21,70,no,yes,City Hospital Q|City Hospital X,Bengaluru,24,30,individual
+P0237,TrustHealth Basic Plan 236,TrustHealth,10364,414560,22,80,no,yes,City Hospital U,Indore|Hyderabad|Pune,36,10,individual
+P0238,EliteFamily Max Plan 207,EliteFamily,20499,2049900,22,55,no,yes,City Hospital P,Hyderabad|Mumbai,36,30,individual
+P0239,Mom&Me Max Plan 356,Mom&Me,16426,1642600,18,65,no,yes,Metro Hospital 2|City Hospital F|Metro Hospital 9,Delhi|Noida|Jaipur,18,30,family
+P0240,ProGuard Elite Plan 220,ProGuard,22346,558650,30,60,no,no,City Hospital T|City Hospital I,Chennai,36,20,individual
+P0241,MaxCover Premium Plan 213,MaxCover,4876,243800,21,70,no,no,City Hospital O|City Hospital Q|Metro Hospital 1,Noida|Pune|Hyderabad,6,25,individual
+P0242,StarterCare Saver Plan 491,StarterCare,10074,1007400,18,70,yes,yes,Metro Hospital 12,Ahmedabad,18,20,individual
+P0243,Mom&Me Saver Plan 169,Mom&Me,7425,742500,22,80,no,yes,City Hospital V|City Hospital U,Bengaluru|Indore,36,15,individual
+P0244,MedSecure Family Plan 23,MedSecure,17090,1709000,22,65,no,no,City Hospital G|Metro Hospital 12|Metro Hospital 7,Pune,24,20,family
+P0245,TrustHealth Max Plan 436,TrustHealth,3000,180000,18,65,no,yes,City Hospital J,Pune,18,5,family
+P0246,RegionalInsure Family Plan 287,RegionalInsure,12734,1273400,22,55,no,no,Metro Hospital 10,Delhi|Bengaluru,24,25,family
+P0247,EliteCare Premium Plan 140,EliteCare,13323,666150,18,55,no,yes,City Hospital D|Metro Hospital 10|City Hospital M,Chennai,18,10,family
+P0248,MetroHealth Max Plan 39,MetroHealth,3000,60000,21,55,yes,yes,City Hospital F|City Hospital T,Delhi|Pune|Jaipur,12,5,individual
+P0249,LocalHealth Premium Plan 72,LocalHealth,20173,2017300,18,80,no,no,Metro Hospital 2|City Hospital A|Metro Hospital 10,Chandigarh|Indore,36,20,individual
+P0250,HappyLife Basic Plan 362,HappyLife,12887,257740,22,80,yes,no,Metro Hospital 3|Metro Hospital 7|City Hospital X,Jaipur|Kolkata|Hyderabad,6,25,individual
+P0251,TrustHealth Family Plan 25,TrustHealth,19603,1960300,25,70,yes,no,Metro Hospital 9,Bengaluru|Pune|Gurgaon,12,5,family
+P0252,StarterCare Elite Plan 102,StarterCare,20967,524175,25,70,no,no,City Hospital Y|City Hospital S|Metro Hospital 10,Gurgaon,18,30,individual
+P0253,EliteCare Plus Plan 129,EliteCare,8554,256620,21,70,no,yes,City Hospital N|City Hospital Y|City Hospital O,Gurgaon|Hyderabad|Jaipur,12,25,individual
+P0254,ApexInsure Elite Plan 450,ApexInsure,14307,357675,30,60,yes,no,Metro Hospital 13|City Hospital G|City Hospital A,Bengaluru|Ahmedabad,6,15,family
+P0255,Mom&Me Starter Plan 405,Mom&Me,19125,1912500,21,55,no,yes,City Hospital J|City Hospital K,Jaipur|Lucknow|Chandigarh,36,30,family
+P0256,UnityHealth Plus Plan 64,UnityHealth,11762,470480,25,80,yes,yes,City Hospital I,Chandigarh|Patna,6,20,individual
+P0257,RegionalInsure Protect Plan 125,RegionalInsure,5453,436240,22,65,yes,no,City Hospital H|City Hospital N,Ahmedabad|Indore,18,20,individual
+P0258,SafeWorker Basic Plan 133,SafeWorker,14477,868620,18,65,yes,no,City Hospital X|City Hospital L|City Hospital S,Patna|Hyderabad|Indore,12,25,individual
+P0259,YouthHealth Max Plan 371,YouthHealth,15543,310860,18,80,no,no,City Hospital L,Patna,18,20,family
+P0260,MetroHealth Family Plan 369,MetroHealth,12512,500480,22,80,no,no,Metro Hospital 6|Metro Hospital 10,Gurgaon|Chennai|Pune,6,5,family
+P0261,MaxCover Protect Plan 185,MaxCover,14664,733200,22,60,yes,yes,Metro Hospital 7,Delhi,6,30,individual
+P0262,TrustHealth Max Plan 294,TrustHealth,3000,180000,21,60,no,no,City Hospital Z,Hyderabad|Gurgaon|Bengaluru,24,30,family
+P0263,FamilyFirst Plus Plan 206,FamilyFirst,7945,158900,18,80,yes,no,City Hospital I,Mumbai|Noida|Patna,6,20,family
+P0264,LocalFamily Protect Plan 431,LocalFamily,18859,377180,22,80,no,no,Metro Hospital 13|City Hospital H,Chennai|Hyderabad,6,25,individual
+P0265,EliteCare Value Plan 497,EliteCare,21791,1307460,25,55,yes,yes,City Hospital N|City Hospital I|City Hospital O|City Hospital Z,Gurgaon|Pune,18,20,family
+P0266,GoldenAge Protect Plan 276,GoldenAge,4897,244850,22,70,yes,yes,Metro Hospital 6|Metro Hospital 2,Bengaluru|Mumbai,12,10,family
+P0267,SafeWorker Saver Plan 256,SafeWorker,7083,708300,25,70,yes,no,City Hospital C,Hyderabad|Indore|Jaipur,6,25,family
+P0268,Mom&Me Family Plan 5,Mom&Me,28967,1448350,25,60,yes,yes,Metro Hospital 7|Metro Hospital 12|City Hospital M,Noida|Delhi,18,10,individual
+P0269,LocalFamily Premium Plan 254,LocalFamily,22050,1323000,21,70,no,no,City Hospital G|Metro Hospital 8|Metro Hospital 3,Delhi,24,10,individual
+P0270,YouthHealth Plus Plan 21,YouthHealth,20080,401600,21,80,no,yes,City Hospital J|City Hospital A|City Hospital X|City Hospital H,Ahmedabad|Kolkata,6,20,individual
+P0271,WellLife Family Plan 92,WellLife,11202,1120200,30,60,yes,yes,City Hospital Q|City Hospital D|City Hospital L,Kolkata,24,20,family
+P0272,EliteFamily Protect Plan 415,EliteFamily,12118,969440,22,60,yes,yes,City Hospital O,Noida|Indore,12,5,individual
+P0273,ProGuard Max Plan 433,ProGuard,7688,307520,22,80,yes,no,City Hospital W|City Hospital X|Metro Hospital 7|City Hospital K,Bengaluru,12,30,individual
+P0274,SureCare Max Plan 160,SureCare,10600,424000,30,80,yes,no,City Hospital E|City Hospital W,Gurgaon|Chennai,24,20,family
+P0275,NovaCare Starter Plan 50,NovaCare,21383,855320,30,80,no,no,City Hospital V|Metro Hospital 4,Hyderabad|Noida,6,25,individual
+P0276,LocalHealth Saver Plan 420,LocalHealth,14043,280860,21,55,no,no,Metro Hospital 12|City Hospital O,Kolkata|Chennai|Hyderabad,36,30,family
+P0277,MetroHealth Elite Plan 18,MetroHealth,3000,180000,22,65,no,yes,City Hospital F,Mumbai|Chandigarh|Chennai,12,5,individual
+P0278,NovaCare Family Plan 39,NovaCare,7762,310480,25,60,no,yes,City Hospital Z|City Hospital J|City Hospital T|City Hospital S,Chandigarh|Gurgaon|Kolkata,12,5,family
+P0279,MetroHealth Family Plan 256,MetroHealth,12030,962400,25,70,no,no,City Hospital C|City Hospital Y|City Hospital B,Ahmedabad,12,25,family
+P0280,MaxCover Starter Plan 320,MaxCover,3947,98675,30,80,no,no,City Hospital M,Bengaluru|Noida|Patna,18,25,individual
+P0281,SafeWorker Starter Plan 364,SafeWorker,16674,1333920,25,60,no,no,Metro Hospital 5|City Hospital G|City Hospital X|Metro Hospital 7,Ahmedabad|Delhi,24,5,individual
+P0282,MetroHealth Max Plan 326,MetroHealth,19107,477675,18,80,no,yes,City Hospital W|City Hospital I,Patna|Hyderabad,36,5,family
+P0283,BudgetHealth Max Plan 45,BudgetHealth,24364,730920,22,80,yes,yes,City Hospital B,Delhi|Mumbai,6,5,individual
+P0284,UnityHealth Premium Plan 317,UnityHealth,13518,811080,22,55,no,no,City Hospital R|City Hospital Y|City Hospital Q,Noida,18,5,family
+P0285,HealthPlus Saver Plan 7,HealthPlus,11322,905760,30,70,no,yes,City Hospital D|Metro Hospital 4,Gurgaon|Bengaluru|Patna,18,20,individual
+P0286,ProGuard Value Plan 184,ProGuard,3000,240000,30,55,yes,no,Metro Hospital 10|City Hospital J|City Hospital R|City Hospital X,Jaipur|Kolkata,12,30,family
+P0287,StarterCare Starter Plan 352,StarterCare,7913,316520,18,70,no,no,City Hospital P|City Hospital L|City Hospital N|City Hospital C,Chandigarh|Kolkata,12,10,individual
+P0288,HappyLife Saver Plan 459,HappyLife,3000,240000,21,80,yes,no,City Hospital R|City Hospital P|Metro Hospital 9|City Hospital Z,Mumbai,12,30,family
+P0289,GoldenAge Protect Plan 400,GoldenAge,11225,336750,22,65,no,no,Metro Hospital 4|City Hospital A,Indore,18,10,family
+P0290,Mom&Me Family Plan 73,Mom&Me,17029,1702900,18,60,no,yes,City Hospital O|City Hospital Q,Noida,36,30,individual
+P0291,LocalHealth Elite Plan 38,LocalHealth,25938,2075040,21,60,yes,no,City Hospital V|City Hospital U|City Hospital J,Lucknow,36,20,family
+P0292,Mom&Me Starter Plan 125,Mom&Me,16468,494040,25,65,no,no,City Hospital O|City Hospital R|City Hospital F,Jaipur|Chennai|Lucknow,6,20,family
+P0293,TrustHealth Value Plan 137,TrustHealth,4204,126120,30,80,no,yes,City Hospital B|City Hospital T,Jaipur|Patna|Noida,6,15,individual
+P0294,StarterCare Elite Plan 162,StarterCare,3000,75000,21,55,no,no,City Hospital H|Metro Hospital 14|City Hospital M|City Hospital R,Jaipur|Ahmedabad|Kolkata,18,30,family
+P0295,YouthHealth Protect Plan 332,YouthHealth,15766,1261280,22,60,yes,no,City Hospital W|City Hospital D,Gurgaon,6,20,individual
+P0296,MetroHealth Premium Plan 486,MetroHealth,20934,1674720,18,55,yes,yes,City Hospital W|Metro Hospital 8|City Hospital R,Noida|Patna,18,5,individual
+P0297,ApexInsure Starter Plan 422,ApexInsure,16606,996360,18,65,yes,no,City Hospital W|City Hospital P|City Hospital R,Delhi|Bengaluru,6,5,individual
+P0298,GuardianLife Protect Plan 339,GuardianLife,14947,373675,21,70,no,no,City Hospital W|Metro Hospital 12,Jaipur,24,15,family
+P0299,MetroHealth Premium Plan 271,MetroHealth,19982,799280,21,60,no,yes,Metro Hospital 10,Hyderabad,12,20,family
+P0300,InsureCo Elite Plan 204,InsureCo,7015,175375,30,70,yes,no,City Hospital C|City Hospital I,Hyderabad|Noida,36,10,family
+P0301,LocalFamily Family Plan 301,LocalFamily,13098,785880,22,60,no,no,City Hospital S|Metro Hospital 6|City Hospital J|City Hospital Z,Jaipur|Pune,6,30,family
+P0302,EliteFamily Elite Plan 213,EliteFamily,3000,150000,21,55,no,no,City Hospital W,Jaipur|Chennai|Chandigarh,18,15,individual
+P0303,CorpHealth Max Plan 384,CorpHealth,19055,952750,18,60,no,no,Metro Hospital 7|City Hospital G,Noida,6,25,individual
+P0304,GoldenAge Starter Plan 29,GoldenAge,8575,343000,25,70,no,no,City Hospital D|City Hospital W|City Hospital V|City Hospital J,Hyderabad|Noida|Chennai,12,5,family
+P0305,UnityHealth Plus Plan 426,UnityHealth,8187,163740,21,55,no,no,City Hospital V|Metro Hospital 5,Lucknow|Patna,12,10,family
+P0306,DiabeCare Family Plan 444,DiabeCare,20948,837920,25,65,no,yes,Metro Hospital 14,Hyderabad|Delhi,18,25,individual
+P0307,GuardianLife Elite Plan 110,GuardianLife,11173,558650,22,65,yes,yes,City Hospital U|Metro Hospital 7|Metro Hospital 12,Indore,24,25,individual
+P0308,BudgetHealth Protect Plan 497,BudgetHealth,27504,1375200,25,55,yes,no,City Hospital S,Gurgaon|Pune|Noida,18,25,individual
+P0309,NovaCare Protect Plan 341,NovaCare,17905,1790500,18,70,no,no,Metro Hospital 2|City Hospital E|City Hospital W,Indore|Noida,6,25,family
+P0310,GoldenAge Family Plan 165,GoldenAge,12998,259960,22,55,no,no,City Hospital T|Metro Hospital 4|City Hospital K,Chandigarh|Chennai|Bengaluru,36,5,family
+P0311,RegionalInsure Saver Plan 137,RegionalInsure,16171,808550,18,70,yes,no,City Hospital P|City Hospital E,Noida,18,10,family
+P0312,HappyLife Elite Plan 481,HappyLife,17457,349140,25,80,yes,no,City Hospital E|City Hospital W|Metro Hospital 2,Delhi,36,5,family
+P0313,GoldenAge Protect Plan 220,GoldenAge,12961,1296100,22,65,no,yes,City Hospital V|City Hospital S,Hyderabad|Gurgaon|Patna,6,25,individual
+P0314,TrustHealth Elite Plan 108,TrustHealth,26409,1056360,21,80,yes,no,City Hospital L|City Hospital A|City Hospital U|City Hospital H,Ahmedabad|Kolkata|Patna,24,30,individual
+P0315,PrimeShield Premium Plan 111,PrimeShield,10843,867440,25,70,no,yes,Metro Hospital 14,Pune|Ahmedabad|Mumbai,18,5,individual
+P0316,TrustHealth Saver Plan 152,TrustHealth,3000,150000,25,70,no,no,Metro Hospital 8|City Hospital U,Ahmedabad,18,15,family
+P0317,TrustHealth Value Plan 446,TrustHealth,11790,589500,18,65,no,yes,City Hospital F|City Hospital T,Mumbai|Lucknow|Ahmedabad,18,15,family
+P0318,SafeWorker Value Plan 471,SafeWorker,3974,397400,18,65,no,no,City Hospital J|Metro Hospital 9|Metro Hospital 13|City Hospital F,Lucknow|Gurgaon,18,30,family
+P0319,GuardianLife Premium Plan 110,GuardianLife,4157,249420,30,65,no,yes,City Hospital S|Metro Hospital 14|City Hospital P|Metro Hospital 11,Pune|Mumbai|Indore,6,10,family
+P0320,FamilyFirst Protect Plan 79,FamilyFirst,20528,410560,30,80,yes,yes,Metro Hospital 7|City Hospital T,Noida,24,25,individual
+P0321,GuardianLife Premium Plan 95,GuardianLife,23833,476660,18,70,no,yes,City Hospital S,Chandigarh|Kolkata|Jaipur,24,15,individual
+P0322,HappyLife Starter Plan 105,HappyLife,7820,391000,25,80,yes,no,City Hospital X|City Hospital N,Lucknow|Kolkata,6,20,individual
+P0323,ApexInsure Protect Plan 113,ApexInsure,10089,504450,18,65,no,no,City Hospital W|Metro Hospital 13,Ahmedabad,6,5,family
+P0324,EliteFamily Value Plan 373,EliteFamily,5873,352380,30,60,no,no,City Hospital X|City Hospital F|Metro Hospital 6|Metro Hospital 8,Patna,6,5,individual
+P0325,CorpHealth Plus Plan 338,CorpHealth,26513,1325650,25,60,no,yes,City Hospital L,Bengaluru|Delhi,24,5,individual
+P0326,TotalHealth Saver Plan 185,TotalHealth,14937,298740,22,55,no,no,City Hospital N|City Hospital H|City Hospital M,Patna,12,15,family
+P0327,EasyHealth Premium Plan 85,EasyHealth,14909,298180,18,60,no,yes,City Hospital T,Mumbai|Pune|Lucknow,24,20,family
+P0328,RegionalInsure Max Plan 31,RegionalInsure,10687,267175,21,65,no,no,City Hospital X|City Hospital J|City Hospital R,Lucknow|Kolkata,6,10,family
+P0329,EliteCare Basic Plan 80,EliteCare,11466,917280,21,55,yes,no,City Hospital Q|City Hospital W,Pune|Delhi,18,20,individual
+P0330,TotalHealth Elite Plan 467,TotalHealth,14497,724850,18,65,no,yes,Metro Hospital 6|City Hospital K|City Hospital R,Hyderabad,18,25,individual
+P0331,EliteFamily Protect Plan 132,EliteFamily,3000,300000,21,70,no,no,City Hospital Z,Pune|Delhi|Chennai,12,5,family
+P0332,LocalFamily Value Plan 78,LocalFamily,11358,227160,22,65,yes,yes,City Hospital V,Lucknow|Ahmedabad,18,10,family
+P0333,UnityHealth Starter Plan 209,UnityHealth,24475,734250,25,70,no,yes,Metro Hospital 10,Gurgaon,12,30,family
+P0334,HealthPlus Value Plan 180,HealthPlus,4059,405900,21,70,no,yes,City Hospital P,Mumbai,36,5,family
+P0335,MedSecure Protect Plan 271,MedSecure,10506,525300,18,55,no,no,City Hospital T|City Hospital D|Metro Hospital 12,Pune|Gurgaon|Kolkata,18,10,individual
+P0336,ProGuard Protect Plan 3,ProGuard,12352,370560,30,55,yes,no,Metro Hospital 8|Metro Hospital 1|City Hospital F,Chennai|Bengaluru|Noida,18,30,individual
+P0337,ApexInsure Max Plan 179,ApexInsure,6896,137920,25,70,yes,no,Metro Hospital 13|Metro Hospital 6|City Hospital U,Pune|Noida,6,10,family
+P0338,LocalFamily Family Plan 332,LocalFamily,16431,657240,18,65,no,yes,City Hospital Q|Metro Hospital 2,Delhi,36,20,individual
+P0339,CorpHealth Protect Plan 432,CorpHealth,23968,719040,25,60,no,yes,Metro Hospital 13|City Hospital M|City Hospital Y,Hyderabad,18,10,individual
+P0340,HappyLife Value Plan 312,HappyLife,5691,455280,18,65,no,yes,City Hospital J,Kolkata|Bengaluru|Hyderabad,6,10,individual
+P0341,EliteCare Max Plan 129,EliteCare,6856,205680,21,70,yes,yes,City Hospital F|Metro Hospital 6,Bengaluru|Mumbai,6,5,individual
+P0342,LocalHealth Starter Plan 254,LocalHealth,12459,498360,22,80,no,no,City Hospital H|City Hospital X,Gurgaon,18,30,individual
+P0343,UnityHealth Value Plan 189,UnityHealth,7221,288840,22,60,no,no,City Hospital O|Metro Hospital 11,Jaipur,36,30,family
+P0344,DiabeCare Premium Plan 309,DiabeCare,15290,382250,22,70,no,no,City Hospital J|City Hospital M,Mumbai,18,30,family
+P0345,EliteCare Elite Plan 256,EliteCare,18633,745320,30,70,no,yes,City Hospital H|City Hospital U,Lucknow,6,20,individual
+P0346,TrustHealth Value Plan 146,TrustHealth,17570,351400,21,55,no,no,Metro Hospital 14|City Hospital Q,Mumbai|Indore|Delhi,6,10,individual
+P0347,ProGuard Starter Plan 494,ProGuard,9640,385600,18,70,no,no,Metro Hospital 12|City Hospital D|City Hospital M,Chennai|Ahmedabad,24,30,family
+P0348,NovaCare Value Plan 183,NovaCare,3000,150000,22,70,yes,yes,Metro Hospital 2|City Hospital G|Metro Hospital 1|City Hospital Z,Kolkata,12,20,family
+P0349,DiabeCare Value Plan 164,DiabeCare,14419,1153520,21,70,yes,no,City Hospital M|Metro Hospital 3|City Hospital R|Metro Hospital 7,Patna|Hyderabad|Bengaluru,18,25,individual
+P0350,TotalHealth Starter Plan 283,TotalHealth,24210,1936800,22,65,no,no,Metro Hospital 9|City Hospital O|City Hospital V,Chandigarh,6,15,individual
+P0351,RegionalInsure Family Plan 456,RegionalInsure,3000,240000,22,55,yes,yes,Metro Hospital 1,Patna,12,20,family
+P0352,TotalHealth Value Plan 280,TotalHealth,10826,866080,18,70,yes,no,City Hospital E|Metro Hospital 9,Lucknow|Mumbai|Kolkata,24,25,individual
+P0353,LocalHealth Plus Plan 484,LocalHealth,10237,255925,30,80,no,yes,Metro Hospital 9|Metro Hospital 10,Delhi,6,10,family
+P0354,Mom&Me Starter Plan 295,Mom&Me,7417,593360,22,70,no,no,Metro Hospital 7|City Hospital M,Jaipur|Kolkata|Hyderabad,36,5,individual
+P0355,LocalHealth Saver Plan 219,LocalHealth,10387,259675,25,80,no,yes,City Hospital N,Jaipur|Noida|Pune,24,30,family
+P0356,SafeHealth Family Plan 272,SafeHealth,12181,365430,21,80,no,no,City Hospital L,Patna|Jaipur,6,25,individual
+P0357,InsureCo Premium Plan 337,InsureCo,3000,180000,30,65,no,no,Metro Hospital 6,Mumbai|Pune|Noida,24,5,family
+P0358,StarterCare Starter Plan 215,StarterCare,20137,1208220,22,60,no,no,City Hospital U|City Hospital K|City Hospital F,Patna,24,15,family
+P0359,CorpHealth Max Plan 485,CorpHealth,6563,131260,21,80,no,yes,Metro Hospital 9|Metro Hospital 7|City Hospital F,Mumbai|Ahmedabad,36,10,individual
+P0360,UnityHealth Max Plan 489,UnityHealth,13925,557000,30,55,no,no,Metro Hospital 5|City Hospital B|Metro Hospital 7,Pune|Patna|Bengaluru,36,30,family
+P0361,YouthHealth Saver Plan 91,YouthHealth,11518,230360,18,80,no,yes,Metro Hospital 10|Metro Hospital 5,Chennai|Delhi|Noida,6,30,individual
+P0362,MaxCover Saver Plan 418,MaxCover,12145,607250,25,60,no,yes,City Hospital D,Kolkata|Chennai,24,25,individual
+P0363,TrustHealth Max Plan 307,TrustHealth,17947,448675,25,80,no,yes,City Hospital P|Metro Hospital 12,Bengaluru|Pune|Noida,6,30,individual
+P0364,TotalHealth Saver Plan 233,TotalHealth,3000,75000,18,65,no,no,City Hospital J|Metro Hospital 14|Metro Hospital 3,Bengaluru|Mumbai|Ahmedabad,18,30,family
+P0365,BudgetHealth Basic Plan 414,BudgetHealth,33623,840575,25,60,yes,no,City Hospital S|City Hospital E,Chandigarh|Chennai|Lucknow,12,20,individual
+P0366,ApexInsure Max Plan 321,ApexInsure,12715,508600,22,80,no,yes,Metro Hospital 3|City Hospital P,Gurgaon|Jaipur|Ahmedabad,6,20,family
+P0367,SafeHealth Premium Plan 300,SafeHealth,10276,616560,30,55,no,no,Metro Hospital 8|City Hospital S|City Hospital G|Metro Hospital 9,Hyderabad|Delhi,12,10,family
+P0368,SafeWorker Value Plan 292,SafeWorker,15290,611600,22,80,no,no,City Hospital F|City Hospital I|Metro Hospital 8,Mumbai|Delhi,36,5,family
+P0369,MedSecure Protect Plan 134,MedSecure,20396,611880,25,70,yes,yes,City Hospital N|City Hospital G|City Hospital Z|City Hospital H,Indore|Pune,12,10,individual
+P0370,EasyHealth Starter Plan 340,EasyHealth,3000,90000,21,70,no,no,City Hospital L|City Hospital A|City Hospital J,Chandigarh|Gurgaon|Kolkata,6,30,family
+P0371,MetroHealth Value Plan 407,MetroHealth,18870,754800,30,60,yes,no,City Hospital O,Gurgaon,18,5,individual
+P0372,SafeHealth Elite Plan 360,SafeHealth,3192,127680,25,65,yes,no,City Hospital U|Metro Hospital 7|Metro Hospital 8|City Hospital D,Mumbai|Chandigarh|Jaipur,24,25,family
+P0373,FamilyFirst Family Plan 339,FamilyFirst,24211,605275,18,55,yes,yes,Metro Hospital 13|Metro Hospital 11,Mumbai|Kolkata|Pune,12,15,individual
+P0374,LocalHealth Plus Plan 215,LocalHealth,3000,240000,18,65,no,yes,City Hospital H,Indore,18,30,family
+P0375,EliteFamily Premium Plan 350,EliteFamily,20213,404260,22,70,no,yes,City Hospital G|Metro Hospital 5,Mumbai|Pune|Bengaluru,36,25,individual
+P0376,DiabeCare Max Plan 193,DiabeCare,3000,90000,25,80,no,yes,City Hospital B|Metro Hospital 1|City Hospital D|Metro Hospital 10,Kolkata,36,10,individual
+P0377,SafeHealth Elite Plan 45,SafeHealth,20750,1037500,18,80,no,yes,City Hospital J|Metro Hospital 2,Kolkata,36,25,individual
+P0378,EliteFamily Basic Plan 310,EliteFamily,9923,793840,18,60,no,yes,City Hospital G|City Hospital D|City Hospital K|City Hospital A,Chandigarh,6,20,individual
+P0379,UnityHealth Starter Plan 283,UnityHealth,15728,1572800,21,55,yes,yes,City Hospital G,Hyderabad|Gurgaon,6,15,individual
+P0380,LocalHealth Starter Plan 90,LocalHealth,6044,151100,21,80,no,yes,Metro Hospital 12,Indore|Bengaluru,36,15,family
+P0381,LocalHealth Protect Plan 442,LocalHealth,25319,2531900,25,80,yes,no,City Hospital T|City Hospital N|Metro Hospital 6|City Hospital D,Mumbai|Delhi|Kolkata,24,5,individual
+P0382,MaxCover Plus Plan 132,MaxCover,20191,1211460,22,55,yes,no,Metro Hospital 6|Metro Hospital 5|City Hospital T,Bengaluru|Ahmedabad,18,10,individual
+P0383,CorpHealth Elite Plan 139,CorpHealth,3000,120000,18,60,yes,yes,Metro Hospital 6|City Hospital U|Metro Hospital 9|City Hospital V,Indore|Delhi,18,20,family
+P0384,GoldenAge Saver Plan 316,GoldenAge,16105,322100,18,60,yes,no,City Hospital V|City Hospital Z|City Hospital K|Metro Hospital 14,Noida|Jaipur,12,20,individual
+P0385,SureCare Elite Plan 40,SureCare,3000,90000,25,55,no,no,City Hospital O|City Hospital S,Pune,12,10,individual
+P0386,GoldenAge Premium Plan 160,GoldenAge,6951,173775,25,60,no,no,Metro Hospital 4|Metro Hospital 8|City Hospital F,Indore|Kolkata|Pune,6,15,individual
+P0387,InsureCo Max Plan 327,InsureCo,18287,914350,22,65,no,yes,Metro Hospital 6,Hyderabad|Kolkata,6,10,family
+P0388,YouthHealth Elite Plan 275,YouthHealth,18284,548520,18,80,no,no,City Hospital U,Hyderabad|Bengaluru|Chandigarh,6,5,individual
+P0389,SafeHealth Elite Plan 350,SafeHealth,14988,449640,21,55,yes,yes,City Hospital O|Metro Hospital 7|City Hospital D,Gurgaon|Bengaluru,6,20,individual
+P0390,FamilyFirst Saver Plan 186,FamilyFirst,27759,2775900,22,70,yes,yes,City Hospital D|City Hospital J|Metro Hospital 8|City Hospital A,Pune|Kolkata,36,30,individual
+P0391,InsureCo Plus Plan 94,InsureCo,18919,472975,30,80,no,yes,Metro Hospital 5,Delhi|Gurgaon,12,15,family
+P0392,Mom&Me Family Plan 416,Mom&Me,15151,454530,18,65,no,yes,City Hospital D|City Hospital Q|City Hospital K|City Hospital N,Noida,36,10,family
+P0393,BudgetHealth Family Plan 84,BudgetHealth,12692,1269200,22,60,no,no,Metro Hospital 5|City Hospital P|City Hospital N,Mumbai,24,10,individual
+P0394,MaxCover Plus Plan 92,MaxCover,3000,75000,25,70,no,no,City Hospital B|Metro Hospital 8|City Hospital O,Delhi|Lucknow,36,20,individual
+P0395,ApexInsure Family Plan 167,ApexInsure,3000,75000,21,60,no,no,City Hospital L|City Hospital F,Gurgaon|Mumbai,18,5,family
+P0396,PrimeShield Premium Plan 233,PrimeShield,11420,228400,25,70,no,no,City Hospital D|Metro Hospital 5|Metro Hospital 3|Metro Hospital 13,Noida|Chennai,24,15,family
+P0397,ApexInsure Plus Plan 103,ApexInsure,6956,208680,18,65,yes,yes,Metro Hospital 2,Jaipur|Kolkata,24,25,individual
+P0398,FamilyFirst Protect Plan 487,FamilyFirst,3000,120000,21,65,no,yes,City Hospital Z|City Hospital D,Patna|Noida,36,15,individual
+P0399,CorpHealth Plus Plan 45,CorpHealth,3000,60000,25,55,no,no,Metro Hospital 1,Delhi|Hyderabad,24,15,individual
+P0400,Mom&Me Plus Plan 283,Mom&Me,11083,332490,30,60,no,no,City Hospital D|Metro Hospital 7,Indore,36,30,family
+P0401,RegionalInsure Elite Plan 189,RegionalInsure,7846,196150,30,80,no,yes,City Hospital Q|City Hospital Z,Chandigarh|Chennai,18,5,family
+P0402,CorpHealth Starter Plan 469,CorpHealth,6924,346200,30,55,no,no,City Hospital J|City Hospital Z|City Hospital G,Noida|Mumbai|Pune,36,25,family
+P0403,RegionalInsure Starter Plan 235,RegionalInsure,15095,377375,22,70,yes,yes,City Hospital L,Mumbai|Kolkata|Delhi,24,30,individual
+P0404,GoldenAge Value Plan 424,GoldenAge,3000,90000,25,80,no,no,City Hospital K|Metro Hospital 9,Lucknow|Gurgaon,24,15,individual
+P0405,PrimeShield Premium Plan 308,PrimeShield,6704,167600,18,80,yes,yes,Metro Hospital 4|City Hospital G|City Hospital D|Metro Hospital 8,Mumbai|Gurgaon,18,10,family
+P0406,CorpHealth Plus Plan 228,CorpHealth,11152,223040,25,60,no,yes,City Hospital L|Metro Hospital 1,Patna|Pune|Ahmedabad,12,30,family
+P0407,StarterCare Max Plan 263,StarterCare,22716,681480,18,80,no,no,City Hospital W|City Hospital V,Hyderabad|Noida|Lucknow,18,30,family
+P0408,ApexInsure Max Plan 21,ApexInsure,21049,1052450,18,70,no,yes,City Hospital M|Metro Hospital 9|City Hospital H,Patna,12,15,family
+P0409,Mom&Me Protect Plan 54,Mom&Me,5284,264200,30,70,no,yes,Metro Hospital 13|Metro Hospital 11|City Hospital E|Metro Hospital 7,Noida,18,30,family
+P0410,SafeHealth Saver Plan 446,SafeHealth,20791,2079100,22,65,no,no,City Hospital N|City Hospital M|City Hospital R,Kolkata|Jaipur|Delhi,24,20,family
+P0411,StarterCare Basic Plan 351,StarterCare,22031,440620,22,80,yes,no,City Hospital J,Mumbai|Bengaluru|Patna,36,5,individual
+P0412,FamilyFirst Starter Plan 359,FamilyFirst,11013,330390,22,80,yes,no,City Hospital Y|City Hospital A|City Hospital Z|City Hospital L,Mumbai,6,10,individual
+P0413,PrimeShield Max Plan 173,PrimeShield,5377,430160,22,55,yes,no,Metro Hospital 1|City Hospital N|City Hospital O|City Hospital I,Delhi|Gurgaon,18,20,individual
+P0414,GuardianLife Saver Plan 207,GuardianLife,14841,371025,25,60,no,yes,City Hospital T|City Hospital R|City Hospital M|City Hospital N,Lucknow|Delhi,18,10,individual
+P0415,LocalFamily Max Plan 87,LocalFamily,11273,450920,18,55,no,no,Metro Hospital 14|City Hospital W|Metro Hospital 8,Jaipur|Bengaluru,18,20,individual
+P0416,YouthHealth Protect Plan 326,YouthHealth,8911,222775,30,60,no,yes,Metro Hospital 7,Noida|Indore|Bengaluru,18,10,family
+P0417,InsureCo Plus Plan 32,InsureCo,24514,2451400,25,70,no,no,City Hospital N|Metro Hospital 6|City Hospital G|City Hospital K,Gurgaon|Chennai|Patna,24,25,individual
+P0418,LocalFamily Basic Plan 106,LocalFamily,10870,326100,21,80,no,no,City Hospital T|City Hospital A,Chandigarh,18,30,family
+P0419,LocalHealth Plus Plan 47,LocalHealth,13162,263240,18,80,yes,no,Metro Hospital 7|Metro Hospital 14|Metro Hospital 8|City Hospital B,Chennai,12,20,family
+P0420,StarterCare Plus Plan 429,StarterCare,3000,90000,30,80,no,no,Metro Hospital 11,Kolkata|Mumbai|Chandigarh,6,15,individual
+P0421,GoldenAge Max Plan 147,GoldenAge,3000,120000,25,65,no,no,Metro Hospital 14|City Hospital Q|City Hospital U|City Hospital H,Hyderabad|Delhi,18,5,family
+P0422,MaxCover Starter Plan 340,MaxCover,18134,906700,30,70,yes,no,City Hospital U|City Hospital B|Metro Hospital 10,Hyderabad,18,20,individual
+P0423,StarterCare Premium Plan 131,StarterCare,16475,1647500,25,60,no,no,City Hospital V|City Hospital K|City Hospital J,Ahmedabad|Gurgaon|Lucknow,18,20,individual
+P0424,StarterCare Value Plan 330,StarterCare,9187,229675,30,55,no,yes,City Hospital N|City Hospital L|Metro Hospital 10|City Hospital E,Noida|Patna|Jaipur,18,5,family
+P0425,SafeHealth Value Plan 488,SafeHealth,12916,258320,22,80,no,no,Metro Hospital 5|Metro Hospital 2,Lucknow|Bengaluru|Mumbai,18,20,individual
+P0426,GoldenAge Max Plan 263,GoldenAge,11585,579250,22,55,no,no,City Hospital I|Metro Hospital 12,Jaipur|Mumbai,36,25,family
+P0427,LocalHealth Elite Plan 43,LocalHealth,15629,312580,30,80,yes,no,City Hospital N|City Hospital O|Metro Hospital 10,Ahmedabad|Chandigarh,6,25,individual
+P0428,YouthHealth Max Plan 396,YouthHealth,25524,1276200,21,70,no,no,City Hospital O|City Hospital V|Metro Hospital 9|Metro Hospital 12,Noida|Pune|Kolkata,6,20,family
+P0429,FamilyFirst Max Plan 331,FamilyFirst,9753,390120,21,70,yes,no,Metro Hospital 2|City Hospital T|Metro Hospital 14,Ahmedabad|Indore|Mumbai,12,20,family
+P0430,TotalHealth Elite Plan 51,TotalHealth,3748,74960,22,60,no,no,City Hospital V|Metro Hospital 8,Gurgaon,24,30,individual
+P0431,SafeHealth Plus Plan 305,SafeHealth,24847,1242350,25,55,no,yes,City Hospital F,Chennai,24,5,family
+P0432,SafeHealth Protect Plan 456,SafeHealth,26147,522940,25,70,no,no,City Hospital A,Chennai|Indore,12,10,individual
+P0433,SafeWorker Starter Plan 369,SafeWorker,11809,295225,25,80,no,no,Metro Hospital 7,Kolkata|Chennai,18,5,individual
+P0434,TotalHealth Family Plan 141,TotalHealth,24562,2456200,25,60,no,yes,City Hospital A|Metro Hospital 9|City Hospital U|Metro Hospital 6,Mumbai|Noida,24,15,family
+P0435,WellLife Value Plan 59,WellLife,8169,653520,18,80,no,no,Metro Hospital 4|City Hospital S|City Hospital R|City Hospital O,Jaipur|Indore,36,5,family
+P0436,Mom&Me Starter Plan 15,Mom&Me,3000,120000,21,60,no,yes,City Hospital R,Chennai|Indore|Chandigarh,6,30,family
+P0437,WellLife Value Plan 459,WellLife,21451,1716080,21,65,no,no,City Hospital V|City Hospital D|Metro Hospital 13,Chennai,12,15,individual
+P0438,SafeHealth Protect Plan 466,SafeHealth,25959,648975,22,70,no,yes,Metro Hospital 13|Metro Hospital 5,Kolkata|Patna,36,5,individual
+P0439,LocalHealth Plus Plan 315,LocalHealth,5684,341040,18,80,yes,no,City Hospital S|City Hospital Z|Metro Hospital 11,Lucknow|Delhi,36,30,family
+P0440,PrimeShield Plus Plan 21,PrimeShield,3000,75000,30,80,no,yes,Metro Hospital 11|Metro Hospital 5,Bengaluru|Chandigarh|Delhi,24,30,family
+P0441,EasyHealth Basic Plan 451,EasyHealth,3000,240000,25,65,no,no,Metro Hospital 10|City Hospital E|City Hospital A,Ahmedabad|Lucknow|Jaipur,36,5,individual
+P0442,InsureCo Family Plan 113,InsureCo,8633,172660,21,80,yes,yes,Metro Hospital 4|City Hospital X|City Hospital C,Chennai|Jaipur|Chandigarh,6,20,family
+P0443,InsureCo Value Plan 434,InsureCo,22090,552250,18,60,no,no,City Hospital U|Metro Hospital 8,Patna|Noida|Ahmedabad,24,20,family
+P0444,StarterCare Protect Plan 481,StarterCare,9341,934100,22,60,yes,no,City Hospital K|City Hospital G|City Hospital A,Kolkata|Chandigarh|Noida,6,10,family
+P0445,YouthHealth Starter Plan 29,YouthHealth,17345,1387600,22,70,no,no,City Hospital O|City Hospital D|City Hospital C,Jaipur,24,5,family
+P0446,LocalFamily Protect Plan 452,LocalFamily,18057,722280,25,80,no,no,City Hospital S|City Hospital E|City Hospital Y|City Hospital M,Hyderabad,24,20,family
+P0447,RegionalInsure Starter Plan 448,RegionalInsure,15855,317100,30,80,yes,no,City Hospital B|Metro Hospital 10,Hyderabad,36,15,family
+P0448,FamilyFirst Max Plan 272,FamilyFirst,6182,247280,30,65,yes,no,City Hospital O,Chennai,36,30,family
+P0449,Mom&Me Protect Plan 155,Mom&Me,7695,461700,18,80,no,yes,City Hospital R,Gurgaon|Mumbai|Bengaluru,6,5,family
+P0450,EasyHealth Starter Plan 16,EasyHealth,16240,324800,22,55,yes,yes,City Hospital H|Metro Hospital 10,Indore,12,10,individual
+P0451,RegionalInsure Elite Plan 337,RegionalInsure,6134,613400,18,65,yes,yes,City Hospital V|Metro Hospital 9|City Hospital K|Metro Hospital 14,Indore|Kolkata,12,20,individual
+P0452,MaxCover Basic Plan 407,MaxCover,3960,198000,18,55,no,no,City Hospital B|City Hospital P|Metro Hospital 12,Patna|Chandigarh|Indore,36,20,individual
+P0453,ProGuard Value Plan 388,ProGuard,21197,1271820,18,55,yes,no,City Hospital V|City Hospital T|Metro Hospital 8|City Hospital Y,Patna,24,25,family
+P0454,MetroHealth Elite Plan 277,MetroHealth,12600,1260000,25,65,no,no,Metro Hospital 14|City Hospital N|City Hospital V,Gurgaon|Noida|Kolkata,6,30,individual
+P0455,PrimeShield Elite Plan 283,PrimeShield,18146,362920,21,60,yes,yes,City Hospital L|City Hospital Z|City Hospital M,Patna,36,25,individual
+P0456,MaxCover Starter Plan 380,MaxCover,3892,194600,21,70,yes,no,Metro Hospital 6|City Hospital O|Metro Hospital 5|Metro Hospital 1,Bengaluru|Ahmedabad,6,30,family
+P0457,TotalHealth Family Plan 10,TotalHealth,26895,1344750,25,70,yes,no,Metro Hospital 9,Jaipur,36,15,individual
+P0458,YouthHealth Protect Plan 420,YouthHealth,14587,291740,30,65,yes,yes,City Hospital P,Chandigarh|Lucknow,12,15,individual
+P0459,Mom&Me Protect Plan 300,Mom&Me,17993,449825,21,70,no,no,City Hospital L,Noida|Patna,24,20,individual
+P0460,EliteCare Saver Plan 140,EliteCare,7424,371200,25,80,no,yes,City Hospital C|Metro Hospital 14,Delhi|Lucknow|Patna,24,20,individual
+P0461,StarterCare Family Plan 83,StarterCare,11299,564950,25,80,no,no,City Hospital X|City Hospital A,Jaipur,12,25,family
+P0462,YouthHealth Starter Plan 30,YouthHealth,3000,180000,25,80,no,yes,City Hospital R|Metro Hospital 2,Mumbai|Lucknow,12,15,individual
+P0463,YouthHealth Saver Plan 222,YouthHealth,24665,2466500,21,65,no,yes,Metro Hospital 13,Ahmedabad|Bengaluru,24,10,family
+P0464,StarterCare Plus Plan 156,StarterCare,17065,511950,30,80,no,yes,Metro Hospital 6,Ahmedabad|Gurgaon|Hyderabad,18,25,family
+P0465,LocalHealth Starter Plan 8,LocalHealth,4025,161000,30,60,no,yes,City Hospital I|City Hospital V,Chennai|Mumbai|Chandigarh,6,15,individual
+P0466,NovaCare Family Plan 422,NovaCare,6458,645800,22,55,yes,no,Metro Hospital 3,Chandigarh,24,30,family
+P0467,CorpHealth Saver Plan 494,CorpHealth,7471,224130,22,80,no,yes,City Hospital Q,Gurgaon|Indore|Mumbai,12,5,family
+P0468,MaxCover Value Plan 405,MaxCover,12678,380340,25,55,no,yes,Metro Hospital 10|Metro Hospital 4,Ahmedabad|Noida|Delhi,24,25,family
+P0469,SafeWorker Elite Plan 13,SafeWorker,19018,570540,18,70,no,yes,Metro Hospital 4|City Hospital Z|City Hospital H,Hyderabad|Patna,36,10,individual
+P0470,DiabeCare Plus Plan 272,DiabeCare,3000,75000,22,70,no,no,Metro Hospital 9,Jaipur|Indore,36,30,family
+P0471,TrustHealth Saver Plan 86,TrustHealth,27656,829680,30,70,no,no,Metro Hospital 4|City Hospital Z|City Hospital A|City Hospital N,Ahmedabad,18,5,family
+P0472,WellLife Family Plan 346,WellLife,3000,180000,18,65,no,yes,City Hospital L,Chandigarh|Chennai,6,30,individual
+P0473,HealthPlus Elite Plan 181,HealthPlus,24566,2456600,18,80,no,yes,Metro Hospital 13|City Hospital S,Delhi|Bengaluru|Noida,24,15,individual
+P0474,ProGuard Plus Plan 369,ProGuard,3000,75000,25,70,no,yes,City Hospital O|Metro Hospital 14,Hyderabad|Noida,24,15,individual
+P0475,YouthHealth Protect Plan 17,YouthHealth,22546,1352760,25,65,no,no,City Hospital Z|Metro Hospital 14,Indore|Noida,24,20,family
+P0476,FamilyFirst Saver Plan 309,FamilyFirst,21662,2166200,22,70,no,no,City Hospital X|Metro Hospital 9|City Hospital U|Metro Hospital 3,Mumbai,36,10,individual
+P0477,GoldenAge Premium Plan 29,GoldenAge,26635,532700,30,65,yes,yes,City Hospital E|Metro Hospital 10|City Hospital Z|Metro Hospital 9,Indore|Bengaluru,18,5,family
+P0478,DiabeCare Saver Plan 212,DiabeCare,3000,60000,22,65,yes,yes,Metro Hospital 8|City Hospital D|City Hospital S,Noida|Chandigarh,12,10,family
+P0479,StarterCare Premium Plan 21,StarterCare,14820,741000,22,70,yes,yes,City Hospital I,Indore,12,10,family
+P0480,MedSecure Family Plan 111,MedSecure,13107,393210,21,65,yes,yes,Metro Hospital 11|City Hospital J|City Hospital C|City Hospital N,Ahmedabad|Chandigarh,6,10,family
+P0481,NovaCare Starter Plan 310,NovaCare,18440,553200,21,60,no,no,Metro Hospital 13|City Hospital I|City Hospital A,Delhi|Chennai,36,5,family
+P0482,EliteCare Value Plan 273,EliteCare,13740,687000,21,60,no,yes,City Hospital C,Noida,6,15,family
+P0483,LocalHealth Value Plan 231,LocalHealth,11549,230980,30,55,no,no,City Hospital X,Jaipur,18,10,individual
+P0484,PrimeShield Saver Plan 229,PrimeShield,9743,194860,21,60,no,yes,Metro Hospital 9|Metro Hospital 14|Metro Hospital 10,Noida|Delhi,36,10,family
+P0485,FamilyFirst Protect Plan 201,FamilyFirst,16570,662800,18,60,yes,yes,City Hospital Z,Mumbai,12,10,individual
+P0486,SureCare Premium Plan 5,SureCare,3000,180000,30,65,no,yes,City Hospital Z|Metro Hospital 4|City Hospital V,Bengaluru|Chandigarh,6,5,individual
+P0487,FamilyFirst Max Plan 332,FamilyFirst,10814,648840,30,65,no,yes,City Hospital X|City Hospital I,Pune|Delhi,36,15,family
+P0488,StarterCare Starter Plan 48,StarterCare,12716,317900,18,55,yes,no,City Hospital O|City Hospital U|Metro Hospital 9|Metro Hospital 5,Hyderabad|Delhi|Chennai,36,10,individual
+P0489,FamilyFirst Max Plan 102,FamilyFirst,23077,1846160,22,55,no,no,City Hospital P|City Hospital T,Indore|Bengaluru,12,20,individual
+P0490,SafeWorker Family Plan 59,SafeWorker,18356,550680,18,55,yes,no,Metro Hospital 4|Metro Hospital 8|City Hospital F,Indore,36,10,family
+P0491,DiabeCare Plus Plan 113,DiabeCare,15368,614720,25,70,yes,no,City Hospital C|Metro Hospital 4|City Hospital P|City Hospital A,Delhi|Chandigarh|Ahmedabad,36,10,individual
+P0492,StarterCare Protect Plan 232,StarterCare,4437,354960,22,65,no,yes,Metro Hospital 8,Delhi|Bengaluru,6,20,family
+P0493,EasyHealth Premium Plan 77,EasyHealth,6709,335450,21,65,yes,no,City Hospital G|Metro Hospital 5,Jaipur,24,25,individual
+P0494,ApexInsure Family Plan 433,ApexInsure,8450,507000,22,70,yes,no,City Hospital U|City Hospital O,Delhi|Patna,12,25,family
+P0495,PrimeShield Family Plan 482,PrimeShield,10162,812960,22,70,yes,no,City Hospital B|City Hospital Z,Hyderabad|Delhi,36,15,individual
+P0496,GoldenAge Premium Plan 482,GoldenAge,6256,187680,30,65,yes,no,City Hospital Z,Noida,12,25,family
+P0497,SureCare Plus Plan 359,SureCare,19729,986450,21,70,no,no,City Hospital C|City Hospital L,Jaipur|Noida,24,30,family
+P0498,GoldenAge Value Plan 206,GoldenAge,6048,120960,22,55,no,no,City Hospital A,Jaipur,36,25,family
+P0499,ProGuard Saver Plan 19,ProGuard,6425,192750,21,65,yes,no,City Hospital P|City Hospital E,Mumbai|Bengaluru,24,30,family
+P0500,LocalHealth Value Plan 339,LocalHealth,6429,257160,21,60,no,no,Metro Hospital 13|City Hospital B,Chandigarh,6,25,individual
